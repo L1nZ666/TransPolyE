@@ -264,9 +264,9 @@ Please add the final journal citation and DOI after publication.
 ```bibtex
 @article{TransPolyE,
   title   = {Predicting the characteristic polynomials of rogue wave patterns from initial-boundary data via deep learning},
-  author  = {TODO},
-  journal = {TODO},
-  year    = {TODO},
+  author  = {Zhe Lin and Yong Chen},
+  journal = {Physical Review E},
+  year    = {2026},
   doi     = {TODO}
 }
 ```
