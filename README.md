@@ -225,20 +225,13 @@ Using one fixed class is recommended because it makes the animation show continu
 
 ## Dataset and checkpoint release
 
-The full dataset should **not** be committed to ordinary Git history.
 
-A practical research-release workflow is:
-
-- **GitHub:** source code, documentation, a tiny example dataset, and the GIF;
-- **Zenodo:** the frozen dataset used in the paper and the trained `.pth` checkpoint, with a DOI;
-- optionally **Hugging Face Datasets:** a convenient mirror if the dataset is large and intended for machine-learning reuse.
-
+For details on how the data was generated, please refer to this paper and our previous work：
+```text
+J. Comput. Phys. (2025) 539: 114243.
+```
 After uploading the data, replace the placeholders below:
 
-```text
-Dataset:    TODO: Zenodo DOI / Hugging Face URL
-Checkpoint: TODO: Zenodo DOI / download URL
-```
 
 A small example file can be kept under `data/sample/` so that users can test `predict.py` without downloading the full dataset.
 

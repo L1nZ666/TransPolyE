@@ -35,7 +35,7 @@ class DemoConfig:
 
     output_path: Path = PROJECT_ROOT / "assets" / "transpolye_demo.gif"
 
-    class_id: int = 0
+    class_id: int = 4
     domain_id: int | None = None
     num_frames: int = 24
     root_scale: float = 5.0
