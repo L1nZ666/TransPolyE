@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Training outputs
+*.log
+training_multidomain.csv
+outputs/
+results/
+
+# Large data
+data/train/
+data/val/
+data/test/
+*.mat
+
+# Checkpoints
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.ckpt
+
+# Keep documentation/sample placeholders
+!data/README.md
+!data/sample/
+!data/sample/**
+!checkpoints/README.md
+
+# Generated GIF can be committed intentionally
+# assets/transpolye_demo.gif

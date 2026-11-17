@@ -1,0 +1,18 @@
+Repository name:
+TransPolyE
+
+GitHub description:
+Transformer-based prediction of rogue-wave characteristic polynomials directly from NLS initial-boundary observations.
+
+Suggested topics:
+rogue-waves
+nonlinear-schrodinger-equation
+transformer
+deep-learning
+scientific-machine-learning
+integrable-systems
+polynomial-roots
+pytorch
+
+Website:
+Add the final paper DOI or project page after publication.
