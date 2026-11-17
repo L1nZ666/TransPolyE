@@ -267,7 +267,7 @@ Please add the final journal citation and DOI after publication.
   author  = {Zhe Lin and Yong Chen},
   journal = {Physical Review E},
   year    = {2026},
-  doi     = {TODO}
+  doi     = {doi.org/10.1103/qdlp-2gzb}
 }
 ```
 
